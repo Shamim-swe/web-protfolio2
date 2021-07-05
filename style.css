@@ -1,0 +1,69 @@
+body{
+  margin:0%;
+}
+h1{
+  font-size: 30px;
+  margin-top: 70px;
+}
+h2{
+  font-size: 30px;
+}
+
+.spa{
+    color:yellowgreen;
+}
+
+.first{
+  width:30%;
+  float:left;
+  color:rgb(32, 19, 90);
+  margin-left:10%;
+  padding-left:2%;
+;
+}
+.first img{
+  width:100%;
+  
+}
+.first-sec{
+  background-image:url("images/top-banner.png");
+  background-repeat: no-repeat;
+ 
+  
+  
+}
+section{
+  
+  height:500px;
+}
+.button{
+  
+  background-image:linear-gradient(brown, yellow);
+  text-decoration:none;
+  padding:10px 20px;
+  border-radius: 5px;
+  color:white;
+}
+.first img{
+  width:100%;
+  padding-left:20px;
+
+}
+
+.second-button{
+  background-image:linear-gradient(yellow, brown);
+  border-radius:4px;
+  padding:10px 20px;
+  text-decoration:none;
+}
+.second{
+  background-image:url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.second-sec{
+  width:30%;
+  float:left;
+  margin-right:5px;
+  padding:2px;
+}
